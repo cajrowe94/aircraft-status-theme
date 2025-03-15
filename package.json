@@ -1,0 +1,19 @@
+{
+  "name": "aircraft-status-theme",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cajrowe94/aircraft-status-theme.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cajrowe94/aircraft-status-theme/issues"
+  },
+  "homepage": "https://github.com/cajrowe94/aircraft-status-theme#readme",
+  "description": ""
+}
